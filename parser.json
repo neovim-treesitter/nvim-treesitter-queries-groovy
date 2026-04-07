@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "groovy",
   "url": "https://github.com/murtaza64/tree-sitter-groovy",
-  "semver": false
+  "semver": false,
+  "lang": "groovy",
+  "location": null,
+  "parser_version": "781d9cd1b482a70a6b27091e5c9e14bbcab3b768"
 }
